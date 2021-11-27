@@ -13,4 +13,5 @@ sudo cargo run
 
 ## Usage
 
-![alt text](./preview.png)
+![alt text](./preview1.png)
+![alt text](./preview2.png)
